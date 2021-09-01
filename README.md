@@ -15,7 +15,7 @@
 
 
 ### Learning
-- ⚜️ CMT
+- ⚜️ Computer Science
 - ⚜️ Bug Bounty
 - ⚜️ Python Language
 - ⚜️ Webapp Pentesting
