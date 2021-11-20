@@ -58,6 +58,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- 
-![Twitter Follow](https://img.shields.io/twitter/follow/myselfAshraful?style=social)<a href="https://twitter.com/intent/follow?screen_name=myselfAshraful">
+   <a href="https://twitter.com/intent/follow?screen_name=myselfAshraful">
+    <img src="https://img.shields.io/twitter/follow/myselfAshraful?style=social">
+  </a>
 </p>
