@@ -1,10 +1,8 @@
-</center>
-# About Myself
+<p align="center"><b>WELLCOME TO ASH'S DOMAIN</b></p><hr/>
 
 
-
-![I am GitHub Readme Generator's creator](https://i.imgur.com/FZy6OHJ.jpeg)
-<hr/></center>
+<img align="center" src="https://i.imgur.com/FZy6OHJ.jpeg">
+<hr/>
 
 
 ## WhoAmI
