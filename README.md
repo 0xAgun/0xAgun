@@ -1,4 +1,4 @@
-<p align="center"><b>WELLCOME TO ASH'S DOMAIN</b></p><hr/>
+<p align="center"><b>WELLCOME TO MY DOMAIN</b></p><hr/>
 
 
 <img align="center" src="https://i.imgur.com/FZy6OHJ.jpeg">
