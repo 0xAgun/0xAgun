@@ -23,7 +23,7 @@
 <hr/>
 
 
-## WhoAmI
+## $WhoAmI
 
 #### Assalamu Alaikum
 
@@ -50,12 +50,9 @@
 - 🔌 Explore The Internet
 
 <br/><hr/>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xAgun&label=Profile%20views&color=0e75b6&style=flat" alt="0xAgun" /> </p>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xAgun&theme=onedark)](https://github.com/anuraghazra/github-readme-stats )
-
-<hr/>
 
 <h3 align="left">Languages and Tools:</h3>
 
